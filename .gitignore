@@ -31,5 +31,7 @@ log/
 .mvn/wrapper/MavenWrapperDownloader.java
 HELP.md
 .history/
-svg_workflow_designer/node_modules
-svg_workflow_designer/dist
+/out/
+/sql/
+
+.DS_Store
